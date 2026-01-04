@@ -1,0 +1,251 @@
+zone,ward_no,ward_name
+Narela Zone,1,Narela
+Narela Zone,2,Bankner
+Narela Zone,3,Holambi Kalan
+Narela Zone,4,Alipur
+Narela Zone,5,Bakhtawarpur
+Civil Lines Zone,6,Burari
+Civil Lines Zone,7,Kadipur
+Civil Lines Zone,8,Mukundpur
+Civil Lines Zone,9,Sant Nagar
+Civil Lines Zone,10,Jharoda
+Rohini Zone,11,Timarpur
+Rohini Zone,12,Malka Ganj
+Rohini Zone,13,Mukherjee Nagar
+Rohini Zone,14,Dhirpur
+Rohini Zone,15,Adarsh Nagar
+Rohini Zone,16,Azadpur
+Rohini Zone,17,Bhalswa
+Rohini Zone,18,Jahangir Puri
+Rohini Zone,19,Sarup Nagar
+Rohini Zone,20,Samaypur Badli
+Rohini Zone,21,Rohini-A
+Rohini Zone,22,Rohini-B
+Rohini Zone,23,Rithala
+Rohini Zone,24,Vijay Vihar
+Rohini Zone,25,Buddh Vihar
+Narela Zone,26,Pooth Kalan
+Narela Zone,27,Begumpur
+Narela Zone,28,Shahbad Dairy
+Narela Zone,29,Pooth Khurd
+Narela Zone,30,Bawana
+Narela Zone,31,Nangal Thakran
+North West Zone,32,Kanjhawala
+North West Zone,33,Rani Khera
+North West Zone,34,Nangloi
+North West Zone,35,Mundka
+North West Zone,36,Nilothi
+North West Zone,37,Kirari
+North West Zone,38,Prem Nagar
+North West Zone,39,Mubarikpur
+North West Zone,40,Nithari
+North West Zone,41,Aman Vihar
+North West Zone,42,Mangol Puri
+North West Zone,43,Sultanpuri-A
+North West Zone,44,Sultanpuri-B
+West Zone,45,Jwalapuri
+West Zone,46,Nangloi Jat
+West Zone,47,Nihal Vihar
+West Zone,48,Guru Harkishan Nagar
+West Zone,49,Mangolpuri-A
+West Zone,50,Mangolpuri-B
+Rohini Zone,51,Rohini-C
+Rohini Zone,52,Rohini-F
+Rohini Zone,53,Rohini-E
+Rohini Zone,54,Rohini-D
+North West Zone,55,Shalimar Bagh-A
+North West Zone,56,Shalimar Bagh-B
+North West Zone,57,Pitampura
+North West Zone,58,Saraswati Vihar
+North West Zone,59,Paschim Vihar
+North West Zone,60,Rani Bagh
+North West Zone,61,Kohat Enclave
+North West Zone,62,Shakur Pur
+North West Zone,63,Tri Nagar
+North West Zone,64,Keshav Puram
+North West Zone,65,Ashok Vihar
+North West Zone,66,Wazir Pur
+Central Zone,67,Sangam Park
+Central Zone,68,Model Town
+Central Zone,69,Kamla Nagar
+Central Zone,70,Shastri Nagar
+Central Zone,71,Kishan Ganj
+Central Zone,72,Sadar Bazar
+Central Zone,73,Civil Lines
+Central Zone,74,Chandni Chowk
+Central Zone,75,Jama Masjid
+Central Zone,76,Chandani Mahal
+Central Zone,77,Delhi Gate
+Central Zone,78,Bazar Sita Ram
+Central Zone,79,Ballimaran
+Central Zone,80,Ram Nagar
+Central Zone,81,Quraish Nagar
+Karol Bagh Zone,82,Pahar Ganj
+Karol Bagh Zone,83,Karol Bagh
+Karol Bagh Zone,84,Dev Nagar
+Karol Bagh Zone,85,West Patel Nagar
+Karol Bagh Zone,86,East Patel Nagar
+Karol Bagh Zone,87,Rajinder Nagar
+Karol Bagh Zone,88,Baljit Nagar
+Karol Bagh Zone,89,Karam Pura
+Karol Bagh Zone,90,Moti Nagar
+Karol Bagh Zone,91,Ramesh Nagar
+West Zone,92,Punjabi Bagh
+West Zone,93,Madipur
+West Zone,94,Raghubir Nagar
+West Zone,95,Vishnu Garden
+West Zone,96,Rajouri Garden
+West Zone,97,Chaukhandi Nagar
+West Zone,98,Subhash Nagar
+West Zone,99,Hari Nagar
+West Zone,100,Fateh Nagar
+West Zone,101,Tilak Nagar
+West Zone,102,Khyala
+West Zone,103,Keshopur
+West Zone,104,Janak Puri South
+West Zone,105,Mahaveer Enclave
+West Zone,106,Janak Puri West
+West Zone,107,Vikas Puri
+West Zone,108,Hastsal
+West Zone,109,Vikas Nagar
+West Zone,110,Kunwar Singh Nagar
+Najafgarh Zone,111,Baprola
+Najafgarh Zone,112,Sainik Enclave
+Najafgarh Zone,113,Mohan Garden
+Najafgarh Zone,114,Nawada
+Najafgarh Zone,115,Uttam Nagar
+Najafgarh Zone,116,Binda Pur
+South West Zone,117,Dabri
+South West Zone,118,Sagarpur
+South West Zone,119,Manglapuri
+South West Zone,120,Dwarka-B
+South West Zone,121,Dwarka-A
+South West Zone,122,Matiala
+South West Zone,123,Kakrola
+South West Zone,124,Nangli Sakrawati
+South West Zone,125,Chhawla
+Najafgarh Zone,126,Isapur
+Najafgarh Zone,127,Najafgarh
+Najafgarh Zone,128,Dichaon Kalan
+Najafgarh Zone,129,Roshan Pura
+South West Zone,130,Dwarka-C
+South West Zone,131,Bijwasan
+South West Zone,132,Kapashera
+South West Zone,133,Mahipalpur
+South West Zone,134,Raj Nagar
+South West Zone,135,Palam
+South West Zone,136,Madhu Vihar
+South West Zone,137,Mahavir Enclave
+South West Zone,138,Sadah Nagar
+South Zone,139,Naraina
+South Zone,140,Inder Puri
+South Zone,141,Rajinder Nagar
+South Zone,142,Daryaganj
+South Zone,143,Sidharth Nagar
+South Zone,144,Lajpat Nagar
+South Zone,145,Andrews Ganj
+South Zone,146,Amar Colony
+South Zone,147,Kotla Mubarakpur
+South Zone,148,Hauz Khas
+South Zone,149,Malviya Nagar
+South Zone,150,Green Park
+South Zone,151,Munirka
+South Zone,152,R.K. Puram
+South Zone,153,Vasant Vihar
+South Zone,154,Lado Sarai
+South Zone,155,Mehrauli
+South Zone,156,Vasant Kunj
+South Zone,157,Aya Nagar
+South Zone,158,Bhatti
+South Zone,159,Chhatarpur
+South Zone,160,Said-Ul-Ajaib
+South East Zone,161,Deoli
+South East Zone,162,Tigri
+South East Zone,163,Sangam Vihar-A
+South East Zone,164,Dakshin Puri
+South East Zone,165,Madangir
+South East Zone,166,Pushp Vihar
+South East Zone,167,Khanpur
+South East Zone,168,Sangam Vihar-C
+South East Zone,169,Sangam Vihar-B
+South East Zone,170,Tughlakabad Extension
+South East Zone,171,Chitranjan Park
+South East Zone,172,Chirag Delhi
+South East Zone,173,Greater Kailash
+South East Zone,174,Sri Niwas Puri
+South East Zone,175,Kalkaji
+South East Zone,176,Govind Puri
+South East Zone,177,Harkesh Nagar
+South East Zone,178,Tughlakabad
+South East Zone,179,Pul Pehladpur
+South East Zone,180,Badarpur
+South East Zone,181,Molarband
+South East Zone,182,Meethapur
+South East Zone,183,Hari Nagar Extension
+South East Zone,184,Jaitpur
+East Zone,185,Madanpur Khadar East
+East Zone,186,Madanpur Khadar West
+East Zone,187,Sarita Vihar
+East Zone,188,Abul Fazal Enclave
+East Zone,189,Zakir Nagar
+East Zone,190,New Ashok Nagar
+East Zone,191,Mayur Vihar Phase-I
+East Zone,192,Trilokpuri
+East Zone,193,Kondli
+East Zone,194,Gharoli
+East Zone,195,Kalyanpuri
+East Zone,196,Mayur Vihar Phase-II
+East Zone,197,Patpar Ganj
+East Zone,198,Vinod Nagar
+East Zone,199,Mandawali
+East Zone,200,Pandav Nagar
+Shahdara Zone,201,Lalita Park
+Shahdara Zone,202,Shakarpur
+Shahdara Zone,203,Laxmi Nagar
+Shahdara Zone,204,Preet Vihar
+Shahdara Zone,205,IP Extension
+Shahdara Zone,206,Anand Vihar
+Shahdara Zone,207,Vishwas Nagar
+Shahdara Zone,208,Anarkali
+Shahdara Zone,209,Jagat Puri
+Shahdara Zone,210,Geeta Colony
+Shahdara Zone,211,Krishna Nagar
+Shahdara Zone,212,Gandhi Nagar
+Shahdara Zone,213,Shastri Park
+Shahdara Zone,214,Azad Nagar
+Shahdara Zone,215,Shahdara
+Shahdara Zone,216,Jhilmil
+Shahdara Zone,217,Dilshad Colony
+Shahdara Zone,218,Sundar Nagri
+Shahdara Zone,219,Dilshad Garden
+Shahdara Zone,220,Nand Nagri
+Shahdara Zone,221,Ashok Nagar
+Shahdara Zone,222,Ram Nagar East
+Shahdara Zone,223,Rohtash Nagar
+Shahdara Zone,224,Welcome Colony
+Shahdara Zone,225,Seelampur
+Shahdara Zone,226,Gautam Puri
+Shahdara Zone,227,Chauhan Bangar
+Shahdara Zone,228,Maujpur
+Shahdara Zone,229,Brahampuri
+Shahdara Zone,230,Bhajanpura
+Shahdara Zone,231,Ghonda
+Shahdara Zone,232,Yamuna Vihar
+Shahdara Zone,233,Subhash Mohalla
+Shahdara Zone,234,Kabir Nagar
+Shahdara Zone,235,Gorakh Park
+Shahdara Zone,236,Kardam Puri
+Shahdara Zone,237,Harsh Vihar
+Shahdara Zone,238,Saboli
+Shahdara Zone,239,Gokal Puri
+Shahdara Zone,240,Joharipur
+Shahdara Zone,241,Karawal Nagar-East
+Shahdara Zone,242,Dayalpur
+Shahdara Zone,243,Mustafabad
+Shahdara Zone,244,Nehru Vihar
+Shahdara Zone,245,Brij Puri
+Shahdara Zone,246,Sri Ram Colony
+Shahdara Zone,247,Sadatpur
+Shahdara Zone,248,Karawal Nagar-West
+Shahdara Zone,249,Sonia Vihar
+Shahdara Zone,250,Sabapur
