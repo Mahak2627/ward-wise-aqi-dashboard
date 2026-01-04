@@ -4,7 +4,7 @@ import requests
 import os
 from streamlit_autorefresh import st_autorefresh
 
-# ================= CONFIG =================
+# CONFIG
 WAQI_TOKEN = "28cdb5ed98eb5696e644208c3d0d69272a1be092"
 WAQI_URL = f"https://api.waqi.info/feed/delhi/?token={WAQI_TOKEN}"
 
@@ -13,7 +13,7 @@ st.set_page_config(
     layout="wide"
 )
 
-# ================= UTIL FUNCTIONS =================
+# UTIL FUNCTIONS
 def ensure_aqi_history(wards_df, filename="aqi_history.csv"):
     if not os.path.exists(filename) or os.path.getsize(filename) == 0:
         rows = []
@@ -207,3 +207,4 @@ with z2:
         zone_avg.sort_values("avg_aqi", ascending=True).head(10),
         use_container_width=True
     )
+
