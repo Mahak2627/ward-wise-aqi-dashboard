@@ -40,13 +40,13 @@ def ensure_aqi_history(wards_df, filename="aqi_history.csv"):
         os.remove(filename)
         return ensure_aqi_history(wards_df, filename)
 
-# ================= LOAD DATA =================
+# LOAD DATA
 wards_df = pd.read_csv("wards.csv")
 
 if "history_df" not in st.session_state:
     st.session_state.history_df = ensure_aqi_history(wards_df)
 
-# ================= AQI FUNCTIONS =================
+# AQI FUNCTIONS
 def fetch_real_aqi():
     try:
         r = requests.get(WAQI_URL, timeout=10, verify=False)
@@ -95,16 +95,14 @@ def public_advice(aqi):
     else:
         return "Normal activity allowed"
 
-# ================= TITLE =================
+# TITLE
 st.title("🌫️ Ward-wise AQI Dashboard")
 st.caption("Real-time AQI using WAQI (CPCB aggregated data)")
 
 # 🔝 AQI RESULT PLACEHOLDER (TOP)
 result_container = st.empty()
 
-# =================================================
 # 🎛️ LEFT SIDEBAR CONTROLS
-# =================================================
 st.sidebar.title("🎛️ Controls")
 
 zone = st.sidebar.selectbox(
@@ -125,9 +123,7 @@ ward_no = zone_wards[
 
 get_data = st.sidebar.button("Get AQI Data")
 
-# =================================================
-# 🎯 FETCH AQI → SHOW AT TOP
-# =================================================
+# FETCH AQI → SHOW AT TOP
 if get_data:
 
     aqi = fetch_real_aqi()
@@ -156,14 +152,10 @@ if get_data:
         st.subheader("👨‍👩‍👧 Public Advisory")
         st.warning(public_advice(aqi))
 
-# =================================================
-# 🔄 AUTO REFRESH RANKINGS EVERY 15 SECONDS
-# =================================================
+# AUTO REFRESH RANKINGS EVERY 15 SECONDS
 st_autorefresh(interval=15 * 1000, key="ranking_refresh")
 
-# =================================================
-# 🔝 RANKINGS (ALWAYS LIVE)
-# =================================================
+# RANKINGS (ALWAYS LIVE)
 df = st.session_state.history_df.copy()
 df["avg_aqi"] = df[["day1","day2","day3","day4","day5"]].mean(axis=1)
 df = df.merge(wards_df, on="ward_no")
@@ -207,4 +199,5 @@ with z2:
         zone_avg.sort_values("avg_aqi", ascending=True).head(10),
         use_container_width=True
     )
+
 
